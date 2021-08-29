@@ -6,7 +6,9 @@ This project resembles the functionallity of an Internet Retail (such as ebay.) 
 
 The application uses API's to perform RESTful CRUD operations.
 
-I have provided a link to a walkthrough video that demonstrates its functionality.
+I have provided a link to a walkthrough video that demonstrates its functionality:
+https://drive.google.com/file/d/1ebKk-n9dwL2_Qko_nD6u42f7Q8KSGtXP/view
+
 
 
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
