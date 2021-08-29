@@ -1,6 +1,6 @@
 # Object-Relational Mapping (ORM): E-Commerce Back End
 
-## Your Task
+## What is this project?
 
 This project resembles the functionallity of an Internet Retail (such as ebay.) I built the back end that uses Express.js API to use Sequelize. It interacts with a MySQL database. 
 
